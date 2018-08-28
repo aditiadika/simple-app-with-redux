@@ -2,36 +2,36 @@
     {
         "id": 0,
         "title": "React",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquam sem purus, vitae egestas urna mattis in."
+        "description": "Kickstart your new project with the best development experience, a highly scalable and solid foundation and a focus on performance and offline access."
     },
     {
         "id": 1,
         "title": "React-Redux",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquam sem purus, vitae egestas urna mattis in."
+        "description": "Reducing the headache of managing state Or Reducing the complexity of managing state."
     },
     {
         "id": 2,
         "title": "Laravel",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquam sem purus, vitae egestas urna mattis in."
+        "description": "Love beautiful code? We do too. The PHP Framework For Web Artisans"
     },
     {
         "id": 3,
         "title": "VueJs",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquam sem purus, vitae egestas urna mattis in."
+        "description": "Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable."
     },
     {
         "id": 4,
         "title": "Angular",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquam sem purus, vitae egestas urna mattis in."
+        "description": "DEVELOP ACROSS ALL PLATFORMS Learn one way to build applications with Angular and reuse your code and abilities to build apps for any deployment target. For web, mobile web, native mobile and native desktop."
     },
     {
         "id": 5,
         "title": "Flutter",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquam sem purus, vitae egestas urna mattis in."
+        "description": "Build beautiful native apps in record time."
     },
     {
         "id": 6,
-        "title": "C#",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquam sem purus, vitae egestas urna mattis in."
+        "title": "Go Language",
+        "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software."
     }
 ]
